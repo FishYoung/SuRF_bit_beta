@@ -9,11 +9,14 @@ The RocksDB experiments with SuRF can be found [here](https://github.com/efficie
 --cited from [Efficient/SuRF](https://github.com/efficient/SuRF)
 
 And this is a ve.................................ry simple implement of Succinct Range Filter.... in JAVA.
+
 Why java??
+
 Humm... it's a long and disappointing story...
+
 Anyway, I will try c++ again in some day. (if wo neng chong xin ru men c++. Or, abandon?)
+
 
 Not exactly same implement with [Efficient/SuRF](https://github.com/efficient/SuRF). Some of the algorithm has not been impletmented yet.
 
-> No xi No pen. But welcome tucao and jianyi.
 
